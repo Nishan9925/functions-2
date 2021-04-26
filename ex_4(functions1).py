@@ -17,4 +17,4 @@ def pow_3(number):
         return "Number " + str(number) + " is not even"
 
 
-print(pow_3(37))
+print(pow_3(36))
